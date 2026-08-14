@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mdi06/mdi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maksym Dikhtiaruk
 
-Here are some ideas to get you started:
+### On-Chain Operations & Automation Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bangkok, Thailand
+
+[LinkedIn](https://www.linkedin.com/in/max-dikhtiaruk) · [X](https://x.com/nimus_eth)
+
+</div>
+
+I work at the intersection of repeatable on-chain operations, transaction monitoring, and lightweight automation. I bring 4+ years of hands-on Web3 experience across protocol events, cross-network workflows, digital-asset operations, and real-time monitoring.
+
+> Currently targeting junior-to-mid roles in **On-Chain Operations**, **Protocol Operations**, and **DeFi Monitoring**.
+
+## What I work on
+
+- Cross-network smart-contract interactions and transaction monitoring
+- Real-time market monitoring with WebSockets and APIs
+- JavaScript and Node.js automation for repetitive workflows
+- Protocol events, network upgrades, and validator coordination
+- Event-driven alerts and operational signal detection
+
+## Featured projects
+
+### [Polymarket Whale Alert](https://github.com/mdi06/polly-whale-alert)
+
+Real-time detection of large Polymarket trades across 500+ markets. The service uses the CLOB WebSocket, enriches events with Gamma API metadata, deduplicates trades across connections, delivers Telegram alerts, and detects bursts of activity.
+
+### [SureBet — Arbitrage Scanner](https://github.com/mdi06/SureBet)
+
+A real-time scanner that monitors odds across multiple sources to identify cross-market pricing discrepancies and potential arbitrage opportunities.
+
+## Background
+
+Previously worked as **Community & Support Manager at Archway Protocol**, where I triaged technical and on-chain inquiries from developers and node operators, organized verification and escalation workflows, and communicated protocol updates and network transitions.
+
+## Tools and domains
+
+`JavaScript` · `Node.js` · `ethers.js` · `WebSockets` · `REST APIs` · `Telegram integrations`
+
+`On-chain operations` · `Transaction monitoring` · `Protocol events` · `Polymarket CLOB` · `Gamma API` · `Digital-asset operations`
