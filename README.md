@@ -12,7 +12,7 @@ Bangkok, Thailand
 
 I work at the intersection of repeatable on-chain operations, transaction monitoring, and lightweight automation. I bring 4+ years of hands-on Web3 experience across protocol events, cross-network workflows, digital-asset operations, and real-time monitoring.
 
-> Currently targeting junior-to-mid roles in **On-Chain Operations**, **Protocol Operations**, and **DeFi Monitoring**.
+> Currently targeting roles in **On-Chain Operations**, **Protocol Operations**, and **DeFi Monitoring**.
 
 ## What I work on
 
