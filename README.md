@@ -24,6 +24,10 @@ I work at the intersection of repeatable on-chain operations, transaction monito
 
 ## Featured projects
 
+### [WalletGenome](https://github.com/mdi06/WalletGenome)
+
+An on-chain intelligence and quantitative portfolio analytics suite for EVM wallets. Built with Next.js and TypeScript, it decodes wallet personas, audits security risks, and visualizes on-chain behavioral intelligence across multiple EVM networks.
+
 ### [Polymarket Whale Alert](https://github.com/mdi06/polly-whale-alert)
 
 Real-time detection of large Polymarket trades across 500+ markets. The service uses the CLOB WebSocket, enriches events with Gamma API metadata, deduplicates trades across connections, delivers Telegram alerts, and detects bursts of activity.
